@@ -1,23 +1,7 @@
-<channels>
-<channel>
-<name>[COLOR red]VIA MERCADOPAGO[/COLOR]</name>
-<thumbnail>https://s2.glbimg.com/9PzmLTQysCdOCwwzKpUoOxAy3sA=/i.glbimg.com/og/ig/infoglobo1/f/original/2019/11/08/mercado-pago.jpg</thumbnail>
-<externallink>https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=93665062-1a1a9970-847f-4551-83ee-998187a9f096</externallink>
-<fanart>https://i.imgur.com/Qon38wO.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]-FAÇA SUA DOAÇÃO VIA MERCADOPAGO BASTA PAGAR COM CARTÃO OU VIA BOLETO-[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channels>
-<channel>
-<name>SERIES</name>
-<thumbnail>https://ia601509.us.archive.org/34/items/fanartdesenhos_202001/SERIES.jpg</thumbnail>
-<externallink>https://</externallink>
+<item>
+<title>[COLOR rede]VIA MERCADO PAGO[/COLOR]</title>
+<link>https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=93665062-1a1a9970-847f-4551-83ee-998187a9f096</link>
+<thumbnail>https://kontaazul.com.br/wp-content/uploads/2019/12/conta-digital-do-Mercado-Pago-969x650.png</thumbnail>
 <fanart></fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] -SERIES PARA TODOS- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
+<info>FAÇA SUA DOAÇÃO VIA MERCADOPAGO COM SEGURANÇA NO CARTÃO OU VIA BOLETO</info>
+</item>
